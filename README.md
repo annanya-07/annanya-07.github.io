@@ -1,7 +1,6 @@
+# Hi there! 👋 I'm Annanya Joshi
 
-# Hi there! 👋 I'm Kanishka
-
-*Please check out my [portfolio](https://kanishka.github.io/portfolio/)!*
+*Please check out my [portfolio](https://an.github.io/portfolio/)!*
 
 ## 🚀 About Me
 I'm a passionate AI/ML engineering student with a strong problem-solving mindset and a keen interest in developing assistive technologies. I enjoy exploring how machine learning and AI can address real-world challenges, and I'm always eager to expand my expertise.
@@ -21,4 +20,8 @@ I’m on a continuous journey to deepen my knowledge in AI, machine learning, an
 - **Databases:** SQL
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" />
+</div>
